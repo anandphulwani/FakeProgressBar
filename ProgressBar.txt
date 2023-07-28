@@ -1,0 +1,3 @@
+;!@Install@!UTF-8!
+RunProgram="Install_COMDLG32OCX.bat"
+;!@InstallEnd@!
